@@ -2,7 +2,7 @@
 Version=1.0
 Name=ClearCrash
 Comment=Clear reported Linux crashes
-Exec=/usr/bin/x-terminal-emulator -e "/opt/ClearCrash/ClearCrash.sh"
+Exec=/usr/bin/x-terminal-emulator -e "/opt/ClearCrash-Xubuntu/ClearCrash.sh"
 Terminal=true
 X-MultipleArgs=false
 Type=Application
