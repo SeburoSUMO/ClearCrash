@@ -6,6 +6,6 @@ Exec=/usr/bin/x-terminal-emulator -e "/opt/ClearCrash-Xubuntu/ClearCrash.sh"
 Terminal=true
 X-MultipleArgs=false
 Type=Application
-Icon=/opt/ClearCrash/ClearCrash.png
+Icon=/opt/ClearCrash-Xubuntu/ClearCrash.png
 Categories=GNOME;GTK;Development;
 Name[en_GB]=ClearCrash
